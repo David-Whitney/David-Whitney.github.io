@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Another Blog is Born"
+title:  "The First Post"
 date:   2018-09-18 21:02:25 -0700
 categories: jekyll update
 ---
